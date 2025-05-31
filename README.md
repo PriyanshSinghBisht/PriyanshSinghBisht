@@ -24,7 +24,7 @@ I'm a passionate fullstack developer specializing in building robust, scalable, 
 ### 🌟 Featured Projects
 
 - [messenger-clone](https://github.com/PriyanshSinghBisht/messenger-clone): A real-time chat application inspired by Facebook Messenger, built with the MERN stack.
-- [discord-clonr](https://github.com/PriyanshSinghBisht/discord-clonr): A Discord-inspired chat platform with channels, direct messaging, and more.
+- [discord-clone](https://github.com/PriyanshSinghBisht/discord-clone): A Discord-inspired chat platform with channels, direct messaging, and more.
 
 ---
 
