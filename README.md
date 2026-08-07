@@ -32,6 +32,7 @@ I'm a passionate fullstack developer specializing in building robust, scalable, 
 
 - [LinkedIn](https://www.linkedin.com/in/priyansh-bisht-a45751235)
 - [Portfolio](https://pr1yansh.vercel.app)
+- [Leetcode](https://leetcode.com/u/Priyansh2552/)
 - **Email:** Priyanshbisht5@gmail.com
 
 ---
