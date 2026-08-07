@@ -16,7 +16,7 @@ I'm a passionate fullstack developer specializing in building robust, scalable, 
 - **Frontend:** React.js, Next.js, Redux, React Hook Form, HTML5, CSS3, JavaScript (ES6+)
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mariadb, SQL/NO SQL, Prisma, ORM
-- **Programming Languages:** C, C++, Java, Python (basics)
+- **Programming Languages:** C ( fundamental ), C++ ( fundamental ), Java ( fundamental ), Python (basics), Javascript ( advance ), Typescript (advance), Rust (very basic), bash ( advance )
 - **Others:** Responsive Design, REST APIs, Git & GitHub
 
 ---
